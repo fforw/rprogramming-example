@@ -1,4 +1,4 @@
-package de.fforw.svenson.examples.model;
+package de.fforw.svenson.example.model;
 
 import org.svenson.JSONProperty;
 

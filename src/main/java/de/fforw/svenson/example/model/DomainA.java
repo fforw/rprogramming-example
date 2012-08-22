@@ -1,4 +1,4 @@
-package de.fforw.svenson.examples.model;
+package de.fforw.svenson.example.model;
 
 /**
  * Message of type A.

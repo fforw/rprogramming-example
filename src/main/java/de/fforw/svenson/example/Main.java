@@ -6,8 +6,8 @@ import org.svenson.JSONConfig;
 import org.svenson.JSONParser;
 import org.svenson.matcher.SubtypeMatcher;
 
-import de.fforw.svenson.examples.model.Base;
-import de.fforw.svenson.examples.model.DomainA;
+import de.fforw.svenson.example.model.Base;
+import de.fforw.svenson.example.model.DomainA;
 
 public class Main
 {
